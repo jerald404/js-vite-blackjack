@@ -1,4 +1,4 @@
-# Blackjack Vite
+# Blackjack-Vite
 
 ## Ejecutar proyecto:
 
